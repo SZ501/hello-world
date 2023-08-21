@@ -1,4 +1,2 @@
 # hello-world
-i will hello world
-i will not hah
-no i will
+ok get out off me way
