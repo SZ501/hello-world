@@ -12,7 +12,7 @@ import math
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 '''
-#okfine
+#okfine66
 wb=openpyxl.load_workbook('C:\\Users\\47257\\Desktop\\influence_data.xlsx')
 sheet=wb['influence_data']
 a0=list(sheet.columns)[0]
